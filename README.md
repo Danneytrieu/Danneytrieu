@@ -5,6 +5,7 @@
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAE71rya9pw&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAE71rya9pw&#x2F;view?utm_content=DAE71rya9pw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Web Designer LinkedIn Banner</a> by Khách tự đặt tên
 
 <h1 align="left">Hi 👋, I'm Nguyen (Danney) Trieu</h1>
 <h3 align="left">an experienced ex-business manager and a proudly self-taught front-end developer. I get out of bed every day with the excitement for coding, thriving to become successful in a development role, and passion to create many meaningful & innovative projects.</h3>
