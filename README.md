@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **danneytrieu@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAEzat_CoYI/AXM26WbkILLju_vY8nv6gA/view?utm_content=DAEzat_CoYI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton](https://bit.ly/359cPDL)
+- 📄 Know about my experiences [https://bit.ly/359cPDL](https://bit.ly/359cPDL)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
