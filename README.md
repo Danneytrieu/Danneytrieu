@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at [danneytrieu.design](danneytrieu.design)
+- 👨‍💻 All of my projects are available at [danneytrieu.design](https://danneytrieu.design/)
 
 - 💬 Ask me about **React**
 
