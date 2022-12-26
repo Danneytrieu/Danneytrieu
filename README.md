@@ -3,9 +3,9 @@
 <h1 align="left">Hi 👋, I'm Nguyen (Danney) Trieu</h1>
 <h3 align="left">I'm an experienced ex-business manager and a proudly self-taught front-end developer. I get out of bed every day with the excitement for coding, thriving to become successful in a development role, and passion to create many meaningful & innovative projects.</h3>
 
-- 🔭 I’m currently working on **100Devs**
+- 🔭 I’m currently working on **YumaWay**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently using **MERN stack**
 
 - 👨‍💻 All of my projects are available at [danneytrieu.design](https://danneytrieu.design/)
 
